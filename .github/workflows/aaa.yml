@@ -33,7 +33,7 @@ jobs:
     
     - name: Run Python script
       run: |
-        python dingtalk_bot.py
+        python aaa.py
     
     - name: Log success
       if: success()
