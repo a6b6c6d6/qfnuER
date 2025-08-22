@@ -4,5 +4,7 @@ QFNU电费提醒
 DINGTALK_BOT_WEBHOOK - 钉钉机器人 Webhook URL <br>
 DINGTALK_BOT_SECRET - 钉钉机器人 Secret <br>
 WECHAT_API_URL - 将网站地址全部复制下来 <br>
-BALANCE_THRESHOLD - 余额阈值（不填默认50）
-### 每天的5：55触发qwq
+BALANCE_THRESHOLD - 余额阈值（不填默认50）  
+### 每天的5：55触发qwq  
+## 怎么配置？？？  
+点击 **setting**找到**Secrets and variables**,**点击Action**,然后添加 Secret就好了
